@@ -1,0 +1,16 @@
+{
+  "name": "buddraw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "npx parcel src/index.html",
+    "clean": "rm -rf dist/ && rm -rf .parcel-cache/",
+    "test": "npx jest"
+  },
+  "author": "Moses Holmström",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "parcel": "^2.10.3"
+  }
+}

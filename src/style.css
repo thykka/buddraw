@@ -1,0 +1,11 @@
+:root
+{
+  background-color: hsl(180, 5%, 8%);
+}
+
+
+canvas#buddraw
+{
+  display: block;
+  margin: 2rem auto;
+}
